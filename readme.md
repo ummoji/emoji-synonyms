@@ -3,7 +3,7 @@
 > Synonyms for emoji, to make them easier to find.
 
 This data is derived programmatically using a
-[thesaurus](https://powerthesaurus.com), so it has a
+[thesaurus](https://powerthesaurus.org), so it has a
 very loose interpretation on what constitutes a _synonym_. As such, you can
 expect to see weird suggestions for some emoji. The hope, however, is that
 erring on the side of more data will lead to a greater likelihood of
@@ -119,7 +119,7 @@ None
 - [limiter](): A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [lodash.uniq](https://github.com/lodash/lodash): The lodash method `_.uniq` exported as a module.
 - [path-exists](http://ghub.io/path-exists): Check if a path exists
-- [powerthesaurus-api](http://ghub.io/powerthesaurus-api): Look up English synonyms using powerthesaurus.com
+- [powerthesaurus-api](http://ghub.io/powerthesaurus-api): Look up English synonyms using powerthesaurus.org
 - [require-dir](https://github.com/aseemk/requireDir): Helper to require() directories.
 - [tap-spec](https://github.com/scottcorgan/tap-spec): Formatted TAP output like Mocha&#39;s spec reporter
 - [tape](https://github.com/substack/tape): tap-producing test harness for node and browsers
