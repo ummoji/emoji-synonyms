@@ -1,0 +1,26 @@
+{
+  "name": "emoji-keywords",
+  "version": "1.0.0",
+  "description": "Synonyms for emoji, to make them easier to find",
+  "main": "index.json",
+  "repository": {
+    "url": "https://github.com/zeke/emoji-keywords",
+    "type": "git"
+  },
+  "author": "Zeke Sikelianos <zeke@sikelianos.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^2.1.2",
+    "limiter": "^1.1.0",
+    "lodash.uniq": "^4.5.0",
+    "path-exists": "^3.0.0",
+    "powerthesaurus-api": "^1.0.0",
+    "require-dir": "^0.3.1",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.2"
+  },
+  "scripts": {
+    "build": "node build.js > index.json",
+    "test": "node test.js | tap-spec"
+  }
+}
