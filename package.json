@@ -1,9 +1,9 @@
 {
-  "name": "emoji-keywords",
+  "name": "emoji-synonyms",
   "version": "1.0.2",
   "description": "Synonyms for emoji, to make them easier to find",
   "main": "index.json",
-  "repository": "https://github.com/ummoji/emoji-keywords",
+  "repository": "https://github.com/ummoji/emoji-synonyms",
   "author": "Zeke Sikelianos <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {

@@ -1,4 +1,4 @@
-# emoji-keywords
+# emoji-synonyms
 
 > Synonyms for emoji, to make them easier to find.
 
@@ -15,13 +15,13 @@ check out the [emojilib](https://github.com/muan/emojilib) package.
 ## Installation
 
 ```sh
-npm install emoji-keywords --save
+npm install emoji-synonyms --save
 ```
 
 ## Usage
 
 ```js
-const keywords = require('emoji-keywords')
+const keywords = require('emoji-synonyms')
 
 Object.keys(keywords).length
 // => 1294
@@ -118,8 +118,8 @@ None
 - [async](https://github.com/caolan/async): Higher-order functions and common patterns for asynchronous code
 - [limiter](): A generic rate limiter for node.js. Useful for API clients, web crawling, or other tasks that need to be throttled
 - [lodash.uniq](https://github.com/lodash/lodash): The lodash method `_.uniq` exported as a module.
-- [path-exists](): Check if a path exists
-- [powerthesaurus-api](): Look up English synonyms using powerthesaurus.com
+- [path-exists](http://ghub.io/path-exists): Check if a path exists
+- [powerthesaurus-api](http://ghub.io/powerthesaurus-api): Look up English synonyms using powerthesaurus.com
 - [require-dir](https://github.com/aseemk/requireDir): Helper to require() directories.
 - [tap-spec](https://github.com/scottcorgan/tap-spec): Formatted TAP output like Mocha&#39;s spec reporter
 - [tape](https://github.com/substack/tape): tap-producing test harness for node and browsers
