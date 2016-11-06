@@ -1,0 +1,102 @@
+[
+  {
+    "word": "test",
+    "upVotes": 15,
+    "downVotes": 0
+  },
+  {
+    "word": "examination",
+    "upVotes": 13,
+    "downVotes": 0
+  },
+  {
+    "word": "quiz",
+    "upVotes": 12,
+    "downVotes": 0
+  },
+  {
+    "word": "essay",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "investigation",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "query",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "review",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "trial",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "checkup",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "final",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "inspection",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "midterm",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "academic test",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "analysis",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "assay",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "assessment",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "catechism",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "audition",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "blue book",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "catechization",
+    "upVotes": 2,
+    "downVotes": 0
+  }
+]

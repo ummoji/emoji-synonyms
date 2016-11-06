@@ -1,0 +1,102 @@
+[
+  {
+    "word": "octagon",
+    "upVotes": 13,
+    "downVotes": 2
+  },
+  {
+    "word": "decagon",
+    "upVotes": 11,
+    "downVotes": 3
+  },
+  {
+    "word": "hexagon",
+    "upVotes": 11,
+    "downVotes": 3
+  },
+  {
+    "word": "triangle",
+    "upVotes": 11,
+    "downVotes": 3
+  },
+  {
+    "word": "pentagon",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "heptagon",
+    "upVotes": 9,
+    "downVotes": 3
+  },
+  {
+    "word": "rectangle",
+    "upVotes": 9,
+    "downVotes": 3
+  },
+  {
+    "word": "square",
+    "upVotes": 7,
+    "downVotes": 3
+  },
+  {
+    "word": "parallelogram",
+    "upVotes": 6,
+    "downVotes": 3
+  },
+  {
+    "word": "dodecagon",
+    "upVotes": 5,
+    "downVotes": 2
+  },
+  {
+    "word": "quadrangle",
+    "upVotes": 5,
+    "downVotes": 2
+  },
+  {
+    "word": "quadrilateral",
+    "upVotes": 5,
+    "downVotes": 2
+  },
+  {
+    "word": "diamond",
+    "upVotes": 4,
+    "downVotes": 2
+  },
+  {
+    "word": "rhombus",
+    "upVotes": 4,
+    "downVotes": 2
+  },
+  {
+    "word": "dodecahedron",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "hexagonal",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "hexagons",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "hexangular",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "nonagon",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "hexahedron",
+    "upVotes": 3,
+    "downVotes": 2
+  }
+]

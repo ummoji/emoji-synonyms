@@ -1,0 +1,47 @@
+[
+  {
+    "word": "ultra",
+    "upVotes": 8,
+    "downVotes": 1
+  },
+  {
+    "word": "mega",
+    "upVotes": 6,
+    "downVotes": 2
+  },
+  {
+    "word": "highest",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "super",
+    "upVotes": 6,
+    "downVotes": 3
+  },
+  {
+    "word": "supreme",
+    "upVotes": 3,
+    "downVotes": 2
+  },
+  {
+    "word": "hyper",
+    "upVotes": 3,
+    "downVotes": 3
+  },
+  {
+    "word": "top",
+    "upVotes": 3,
+    "downVotes": 3
+  },
+  {
+    "word": "very",
+    "upVotes": 4,
+    "downVotes": 5
+  },
+  {
+    "word": "best",
+    "upVotes": 1,
+    "downVotes": 3
+  }
+]

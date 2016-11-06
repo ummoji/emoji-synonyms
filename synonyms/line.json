@@ -1,0 +1,102 @@
+[
+  {
+    "word": "string",
+    "upVotes": 30,
+    "downVotes": 2
+  },
+  {
+    "word": "family",
+    "upVotes": 29,
+    "downVotes": 1
+  },
+  {
+    "word": "lineage",
+    "upVotes": 27,
+    "downVotes": 2
+  },
+  {
+    "word": "stock",
+    "upVotes": 25,
+    "downVotes": 0
+  },
+  {
+    "word": "row",
+    "upVotes": 25,
+    "downVotes": 3
+  },
+  {
+    "word": "rank",
+    "upVotes": 23,
+    "downVotes": 1
+  },
+  {
+    "word": "business",
+    "upVotes": 22,
+    "downVotes": 0
+  },
+  {
+    "word": "occupation",
+    "upVotes": 22,
+    "downVotes": 0
+  },
+  {
+    "word": "vocation",
+    "upVotes": 22,
+    "downVotes": 0
+  },
+  {
+    "word": "course",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "descent",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "file",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "job",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "queue",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "strain",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "stripe",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "calling",
+    "upVotes": 19,
+    "downVotes": 0
+  },
+  {
+    "word": "profession",
+    "upVotes": 19,
+    "downVotes": 0
+  },
+  {
+    "word": "ancestry",
+    "upVotes": 18,
+    "downVotes": 0
+  },
+  {
+    "word": "pedigree",
+    "upVotes": 18,
+    "downVotes": 0
+  }
+]

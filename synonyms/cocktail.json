@@ -1,0 +1,102 @@
+[
+  {
+    "word": "drink",
+    "upVotes": 10,
+    "downVotes": 1
+  },
+  {
+    "word": "beverage",
+    "upVotes": 7,
+    "downVotes": 2
+  },
+  {
+    "word": "mixed drink",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "pop",
+    "upVotes": 6,
+    "downVotes": 2
+  },
+  {
+    "word": "aperitif",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "appetizer",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "soda",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "alcohol",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "highball",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "martini",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "punch",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "soft drink",
+    "upVotes": 5,
+    "downVotes": 2
+  },
+  {
+    "word": "alto-cumulus",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "beer",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "champagne",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "eye-opener",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "tipple",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "blend",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "booze",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "brew",
+    "upVotes": 2,
+    "downVotes": 0
+  }
+]

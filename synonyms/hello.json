@@ -1,0 +1,102 @@
+[
+  {
+    "word": "hi",
+    "upVotes": 68,
+    "downVotes": 13
+  },
+  {
+    "word": "howdy",
+    "upVotes": 46,
+    "downVotes": 13
+  },
+  {
+    "word": "salutation",
+    "upVotes": 39,
+    "downVotes": 10
+  },
+  {
+    "word": "hey",
+    "upVotes": 36,
+    "downVotes": 7
+  },
+  {
+    "word": "greetings",
+    "upVotes": 34,
+    "downVotes": 10
+  },
+  {
+    "word": "how-do-you-do",
+    "upVotes": 31,
+    "downVotes": 7
+  },
+  {
+    "word": "welcome",
+    "upVotes": 27,
+    "downVotes": 6
+  },
+  {
+    "word": "good morning",
+    "upVotes": 26,
+    "downVotes": 5
+  },
+  {
+    "word": "yo",
+    "upVotes": 24,
+    "downVotes": 5
+  },
+  {
+    "word": "hiya",
+    "upVotes": 23,
+    "downVotes": 4
+  },
+  {
+    "word": "good day",
+    "upVotes": 22,
+    "downVotes": 7
+  },
+  {
+    "word": "how are you",
+    "upVotes": 20,
+    "downVotes": 5
+  },
+  {
+    "word": "hullo",
+    "upVotes": 22,
+    "downVotes": 9
+  },
+  {
+    "word": "buenos dias",
+    "upVotes": 17,
+    "downVotes": 5
+  },
+  {
+    "word": "what's up",
+    "upVotes": 12,
+    "downVotes": 1
+  },
+  {
+    "word": "ciao",
+    "upVotes": 17,
+    "downVotes": 7
+  },
+  {
+    "word": "g'day",
+    "upVotes": 14,
+    "downVotes": 4
+  },
+  {
+    "word": "aloha",
+    "upVotes": 13,
+    "downVotes": 3
+  },
+  {
+    "word": "salute",
+    "upVotes": 16,
+    "downVotes": 7
+  },
+  {
+    "word": "greeting",
+    "upVotes": 14,
+    "downVotes": 5
+  }
+]

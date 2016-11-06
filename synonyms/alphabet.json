@@ -1,0 +1,102 @@
+[
+  {
+    "word": "ABC",
+    "upVotes": 10,
+    "downVotes": 1
+  },
+  {
+    "word": "character",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "elements",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "letter",
+    "upVotes": 7,
+    "downVotes": 1
+  },
+  {
+    "word": "ABCs",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "rudiments",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "ABC's",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "first principle",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "first rudiment",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "grammar",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "hieroglyphic",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "script",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "rudiment",
+    "upVotes": 5,
+    "downVotes": 2
+  },
+  {
+    "word": "basics",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "fundamentals",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "outlines",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "sign",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "abecedary",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "alphabetic",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "alphabetize",
+    "upVotes": 2,
+    "downVotes": 0
+  }
+]

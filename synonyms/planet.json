@@ -1,0 +1,102 @@
+[
+  {
+    "word": "world",
+    "upVotes": 20,
+    "downVotes": 0
+  },
+  {
+    "word": "globe",
+    "upVotes": 17,
+    "downVotes": 0
+  },
+  {
+    "word": "earth",
+    "upVotes": 17,
+    "downVotes": 1
+  },
+  {
+    "word": "sphere",
+    "upVotes": 11,
+    "downVotes": 2
+  },
+  {
+    "word": "orb",
+    "upVotes": 8,
+    "downVotes": 0
+  },
+  {
+    "word": "planetoid",
+    "upVotes": 8,
+    "downVotes": 0
+  },
+  {
+    "word": "major planet",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "star",
+    "upVotes": 7,
+    "downVotes": 1
+  },
+  {
+    "word": "celestial body",
+    "upVotes": 6,
+    "downVotes": 0
+  },
+  {
+    "word": "superior planet",
+    "upVotes": 6,
+    "downVotes": 0
+  },
+  {
+    "word": "asteroid",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "satellite",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "comet",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "minor planet",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "solar system",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "universe",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "Terra",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "cosmos",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "creation",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "saturn",
+    "upVotes": 4,
+    "downVotes": 1
+  }
+]

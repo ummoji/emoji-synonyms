@@ -1,0 +1,77 @@
+[
+  {
+    "word": "chili pepper",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "jalapeno",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "chili",
+    "upVotes": 3,
+    "downVotes": 2
+  },
+  {
+    "word": "chilly",
+    "upVotes": 3,
+    "downVotes": 2
+  },
+  {
+    "word": "hot pepper",
+    "upVotes": 2,
+    "downVotes": 1
+  },
+  {
+    "word": "chile",
+    "upVotes": 2,
+    "downVotes": 2
+  },
+  {
+    "word": "cayenne",
+    "upVotes": 1,
+    "downVotes": 2
+  },
+  {
+    "word": "allspice",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "aniseed",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "basil",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "borage",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "caraway",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "cardamom",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "hot fruit",
+    "upVotes": 0,
+    "downVotes": 1
+  },
+  {
+    "word": "red pepper",
+    "upVotes": 0,
+    "downVotes": 1
+  }
+]

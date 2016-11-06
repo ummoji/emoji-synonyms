@@ -1,0 +1,102 @@
+[
+  {
+    "word": "test",
+    "upVotes": 19,
+    "downVotes": 0
+  },
+  {
+    "word": "query",
+    "upVotes": 19,
+    "downVotes": 1
+  },
+  {
+    "word": "question",
+    "upVotes": 18,
+    "downVotes": 0
+  },
+  {
+    "word": "examine",
+    "upVotes": 17,
+    "downVotes": 1
+  },
+  {
+    "word": "interrogate",
+    "upVotes": 16,
+    "downVotes": 0
+  },
+  {
+    "word": "examination",
+    "upVotes": 15,
+    "downVotes": 0
+  },
+  {
+    "word": "ask",
+    "upVotes": 13,
+    "downVotes": 0
+  },
+  {
+    "word": "exam",
+    "upVotes": 13,
+    "downVotes": 0
+  },
+  {
+    "word": "inquire",
+    "upVotes": 12,
+    "downVotes": 0
+  },
+  {
+    "word": "grill",
+    "upVotes": 11,
+    "downVotes": 0
+  },
+  {
+    "word": "pump",
+    "upVotes": 11,
+    "downVotes": 0
+  },
+  {
+    "word": "catechize",
+    "upVotes": 10,
+    "downVotes": 0
+  },
+  {
+    "word": "cross-examine",
+    "upVotes": 10,
+    "downVotes": 0
+  },
+  {
+    "word": "probe",
+    "upVotes": 8,
+    "downVotes": 0
+  },
+  {
+    "word": "twit",
+    "upVotes": 8,
+    "downVotes": 0
+  },
+  {
+    "word": "challenge",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "investigate",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "banter",
+    "upVotes": 6,
+    "downVotes": 0
+  },
+  {
+    "word": "check",
+    "upVotes": 6,
+    "downVotes": 0
+  },
+  {
+    "word": "deride",
+    "upVotes": 6,
+    "downVotes": 0
+  }
+]

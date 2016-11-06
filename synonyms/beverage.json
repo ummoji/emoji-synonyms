@@ -1,0 +1,102 @@
+[
+  {
+    "word": "drink",
+    "upVotes": 24,
+    "downVotes": 2
+  },
+  {
+    "word": "potable",
+    "upVotes": 11,
+    "downVotes": 1
+  },
+  {
+    "word": "drinkable",
+    "upVotes": 9,
+    "downVotes": 1
+  },
+  {
+    "word": "draught",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "libation",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "liquor",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "potion",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "liquid",
+    "upVotes": 7,
+    "downVotes": 1
+  },
+  {
+    "word": "brew",
+    "upVotes": 7,
+    "downVotes": 2
+  },
+  {
+    "word": "potation",
+    "upVotes": 7,
+    "downVotes": 2
+  },
+  {
+    "word": "cocktail",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "coffee",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "tea",
+    "upVotes": 6,
+    "downVotes": 1
+  },
+  {
+    "word": "water",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "cocoa",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "draft",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "punch",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "pop",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "soda",
+    "upVotes": 4,
+    "downVotes": 0
+  },
+  {
+    "word": "juice",
+    "upVotes": 4,
+    "downVotes": 1
+  }
+]

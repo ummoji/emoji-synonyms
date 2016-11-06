@@ -1,0 +1,102 @@
+[
+  {
+    "word": "fruit",
+    "upVotes": 24,
+    "downVotes": 0
+  },
+  {
+    "word": "green",
+    "upVotes": 7,
+    "downVotes": 2
+  },
+  {
+    "word": "iphone",
+    "upVotes": 6,
+    "downVotes": 2
+  },
+  {
+    "word": "pineapple",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "tree",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "avocado",
+    "upVotes": 7,
+    "downVotes": 5
+  },
+  {
+    "word": "banana",
+    "upVotes": 6,
+    "downVotes": 4
+  },
+  {
+    "word": "apricot",
+    "upVotes": 5,
+    "downVotes": 3
+  },
+  {
+    "word": "cottonwood",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "fir",
+    "upVotes": 3,
+    "downVotes": 1
+  },
+  {
+    "word": "apple tree",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "aquamarine",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "ash",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "aspen",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "balsa",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "city",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "globe",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "sphere",
+    "upVotes": 2,
+    "downVotes": 0
+  },
+  {
+    "word": "orange",
+    "upVotes": 6,
+    "downVotes": 5
+  },
+  {
+    "word": "lime",
+    "upVotes": 5,
+    "downVotes": 4
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "vehicle",
+    "upVotes": 26,
+    "downVotes": 3
+  },
+  {
+    "word": "motorcar",
+    "upVotes": 23,
+    "downVotes": 3
+  },
+  {
+    "word": "automobile",
+    "upVotes": 24,
+    "downVotes": 6
+  },
+  {
+    "word": "machine",
+    "upVotes": 17,
+    "downVotes": 1
+  },
+  {
+    "word": "auto",
+    "upVotes": 21,
+    "downVotes": 6
+  },
+  {
+    "word": "truck",
+    "upVotes": 14,
+    "downVotes": 5
+  },
+  {
+    "word": "bus",
+    "upVotes": 11,
+    "downVotes": 3
+  },
+  {
+    "word": "gondola",
+    "upVotes": 10,
+    "downVotes": 2
+  },
+  {
+    "word": "motor",
+    "upVotes": 8,
+    "downVotes": 0
+  },
+  {
+    "word": "coach",
+    "upVotes": 10,
+    "downVotes": 3
+  },
+  {
+    "word": "jalopy",
+    "upVotes": 9,
+    "downVotes": 2
+  },
+  {
+    "word": "buggy",
+    "upVotes": 8,
+    "downVotes": 1
+  },
+  {
+    "word": "wagon",
+    "upVotes": 8,
+    "downVotes": 1
+  },
+  {
+    "word": "coupe",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "limousine",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "sedan",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "van",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "carriage",
+    "upVotes": 7,
+    "downVotes": 1
+  },
+  {
+    "word": "railcar",
+    "upVotes": 6,
+    "downVotes": 0
+  },
+  {
+    "word": "railway car",
+    "upVotes": 6,
+    "downVotes": 0
+  }
+]

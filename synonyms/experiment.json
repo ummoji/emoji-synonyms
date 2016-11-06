@@ -1,0 +1,102 @@
+[
+  {
+    "word": "test",
+    "upVotes": 27,
+    "downVotes": 4
+  },
+  {
+    "word": "research",
+    "upVotes": 21,
+    "downVotes": 1
+  },
+  {
+    "word": "try",
+    "upVotes": 20,
+    "downVotes": 1
+  },
+  {
+    "word": "trial",
+    "upVotes": 18,
+    "downVotes": 2
+  },
+  {
+    "word": "assay",
+    "upVotes": 15,
+    "downVotes": 1
+  },
+  {
+    "word": "venture",
+    "upVotes": 15,
+    "downVotes": 1
+  },
+  {
+    "word": "examination",
+    "upVotes": 13,
+    "downVotes": 0
+  },
+  {
+    "word": "attempt",
+    "upVotes": 13,
+    "downVotes": 1
+  },
+  {
+    "word": "proof",
+    "upVotes": 13,
+    "downVotes": 1
+  },
+  {
+    "word": "prove",
+    "upVotes": 13,
+    "downVotes": 1
+  },
+  {
+    "word": "investigation",
+    "upVotes": 12,
+    "downVotes": 0
+  },
+  {
+    "word": "probe",
+    "upVotes": 12,
+    "downVotes": 1
+  },
+  {
+    "word": "essay",
+    "upVotes": 12,
+    "downVotes": 2
+  },
+  {
+    "word": "experimentation",
+    "upVotes": 12,
+    "downVotes": 2
+  },
+  {
+    "word": "check",
+    "upVotes": 11,
+    "downVotes": 1
+  },
+  {
+    "word": "procedure",
+    "upVotes": 10,
+    "downVotes": 0
+  },
+  {
+    "word": "analyze",
+    "upVotes": 11,
+    "downVotes": 2
+  },
+  {
+    "word": "examine",
+    "upVotes": 11,
+    "downVotes": 2
+  },
+  {
+    "word": "analysis",
+    "upVotes": 10,
+    "downVotes": 1
+  },
+  {
+    "word": "trial run",
+    "upVotes": 10,
+    "downVotes": 2
+  }
+]

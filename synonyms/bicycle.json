@@ -1,0 +1,102 @@
+[
+  {
+    "word": "bike",
+    "upVotes": 17,
+    "downVotes": 2
+  },
+  {
+    "word": "cycle",
+    "upVotes": 15,
+    "downVotes": 1
+  },
+  {
+    "word": "wheel",
+    "upVotes": 11,
+    "downVotes": 2
+  },
+  {
+    "word": "two-wheeler",
+    "upVotes": 9,
+    "downVotes": 0
+  },
+  {
+    "word": "velocipede",
+    "upVotes": 9,
+    "downVotes": 1
+  },
+  {
+    "word": "push-bike",
+    "upVotes": 7,
+    "downVotes": 0
+  },
+  {
+    "word": "pedal",
+    "upVotes": 7,
+    "downVotes": 2
+  },
+  {
+    "word": "tricycle",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "vehicle",
+    "upVotes": 5,
+    "downVotes": 0
+  },
+  {
+    "word": "bus",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "motorcycle",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "taxi",
+    "upVotes": 5,
+    "downVotes": 1
+  },
+  {
+    "word": "circle",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "drive",
+    "upVotes": 4,
+    "downVotes": 1
+  },
+  {
+    "word": "ambulance",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "boneshaker",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "coach",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "motorbike",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "round",
+    "upVotes": 3,
+    "downVotes": 0
+  },
+  {
+    "word": "truck",
+    "upVotes": 3,
+    "downVotes": 0
+  }
+]
