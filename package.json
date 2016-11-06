@@ -1,6 +1,6 @@
 {
   "name": "emoji-keywords",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synonyms for emoji, to make them easier to find",
   "main": "index.json",
   "repository": "https://github.com/ummoji/emoji-keywords",
