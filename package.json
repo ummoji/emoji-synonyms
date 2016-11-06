@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "Synonyms for emoji, to make them easier to find",
   "main": "index.json",
-  "repository": {
-    "url": "https://github.com/zeke/emoji-keywords",
-    "type": "git"
-  },
+  "repository": "https://github.com/ummoji/emoji-keywords",
   "author": "Zeke Sikelianos <zeke@sikelianos.com>",
   "license": "MIT",
   "devDependencies": {
