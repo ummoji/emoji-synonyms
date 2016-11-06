@@ -1,6 +1,6 @@
 {
   "name": "emoji-synonyms",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Synonyms for emoji, to make them easier to find",
   "main": "index.json",
   "repository": "https://github.com/ummoji/emoji-synonyms",
